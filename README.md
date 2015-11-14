@@ -1,2 +1,3 @@
 # dnx-coreclr
-Container that contains the DNX CORE CLR
+
+Simple container with the DNX CORE CLR
